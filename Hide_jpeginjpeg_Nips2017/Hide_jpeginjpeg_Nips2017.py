@@ -34,7 +34,7 @@ class BaseCodec():
         None
         
         
-class Hide_jpegtojpeg_nips2017(BaseCodec):
+class Hide_jpeginjpeg_nips2017(BaseCodec):
     def __init__(self):
         super().__init__()
         self.Hnet_pth = "./checkPoint/netH.pth"
@@ -94,7 +94,7 @@ class Hide_jpegtojpeg_nips2017(BaseCodec):
 
 cover_img = Image.open("./test-pic/1.JPEG")
 stego_img = Image.open("./test-pic/2.JPEG")
-stego = Hide_jpegtojpeg_nips2017()
+stego = Hide_jpeginjpeg_nips2017()
 stego.encode(cover=cover_img, stego=stego_img)
 container_img = Image.open("./result-pic/container.png")
 stego.decode(container=container_img)
