@@ -1,5 +1,5 @@
 # Stego-dl
-Steganography methods based on deep learning.
+Steganography methods mainly based on deep learning.
 ## Including
 |Method|Paper/Webpage|Usage|Reference|
 |---|---|---|---|
