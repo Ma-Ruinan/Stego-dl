@@ -1,7 +1,7 @@
 # encoding: utf-8
 # This steganography method is named: Hide_jpeginjpeg_Nips2017
 # Created by: Ruinan Ma
-# Created time��2022/09/28
+# Created time: 2022/09/28
 """
     This is a PyTorch implementation of image steganography via deep learning, 
     which is released in paper "Hiding Images in Plain Sight: Deep Steganography"
