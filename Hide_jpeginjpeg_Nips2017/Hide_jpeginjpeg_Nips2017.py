@@ -91,7 +91,7 @@ class Hide_jpeginjpeg_Nips2017(BaseCodec):
             os.mkdir("./result-pic")
         torchvision.utils.save_image(reveal_img, "./result-pic/reveal.png")
         
-
+# For test
 cover_img = Image.open("./test-pic/1.JPEG")
 stego_img = Image.open("./test-pic/2.JPEG")
 stego = Hide_jpeginjpeg_Nips2017()
