@@ -5,7 +5,7 @@ Steganography methods mainly based on deep learning.
 |Method|Paper/Webpage|Usage|Reference|
 |---|---|---|---|
 |*Hide_jpeginjpeg_Nips2017*|[Hiding images in plain sight: Deep steganography](https://proceedings.neurips.cc/paper/2017/file/838e8afb1ca34354ac209f53d90c3a43-Paper.pdf)|1.Get netH.pth and netR.pth [in this link](https://pan.baidu.com/s/1G1mobHsVxBkuDQBAZE2wNQ) with extraction code <ins>*utd8*</ins>. <br>2.Put netH.pth and netR.pth into ./checkPoint.|[link](https://github.com/arnoweng/PyTorch-Deep-Image-Steganography)|
-|*HiNet_Iccv2021*|[HiNet: Deep Image Hiding by Invertible](https://openaccess.thecvf.com/content/ICCV2021/html/Jing_HiNet_Deep_Image_Hiding_by_Invertible_Network_ICCV_2021_paper.html)|TODO|[link](https://github.com/TomTomTommi/HiNet)|
+|*HiNet_Iccv2021*|[HiNet: Deep Image Hiding by Invertible](https://openaccess.thecvf.com/content/ICCV2021/html/Jing_HiNet_Deep_Image_Hiding_by_Invertible_Network_ICCV_2021_paper.html)|1.Get model.pt [in this link](https://pan.baidu.com/s/18OjVNiGy802SIlsXYzp3Fg?pwd=a9ga) with extraction code <ins>*a9ga*</ins>.|[link](https://github.com/TomTomTommi/HiNet)|
 
 ### Traditional method
 |Method|Paper/Webpage|Usage|Reference|
