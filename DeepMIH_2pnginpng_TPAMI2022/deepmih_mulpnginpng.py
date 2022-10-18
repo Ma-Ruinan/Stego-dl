@@ -1,5 +1,5 @@
 """
-This steganography method is named: `DeepMIHMULPNGinPNGTPAMI2022`
+This steganography method is named: `DeepMIH2PNGinPNGTPAMI2022`
 
 * Created by: Ruinan Ma
 * Created time: 2022/10/20
